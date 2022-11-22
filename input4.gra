@@ -1,0 +1,19 @@
+2
+a
+b
+5
+S
+A
+B
+C
+D
+9
+S -> aA
+S -> &
+A -> BAb
+A -> Ba
+B -> a
+B -> b
+B -> aS
+C -> ba
+D -> aD

@@ -1,0 +1,11 @@
+S -> IA | &
+A -> BJ | BD
+B -> a | b | ES
+C -> FG
+D -> HD
+E -> a
+F -> b
+G -> a
+H -> a
+I -> a
+J -> AB
